@@ -1,0 +1,8 @@
+/*body{
+	padding-top:70px;
+}*/
+.input_error{
+	color:red;
+	font-style: italic;
+	font-weight: bold;
+}
